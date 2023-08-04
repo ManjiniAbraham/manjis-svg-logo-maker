@@ -1,0 +1,28 @@
+{
+  "name": "manjis-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "node_modules/\r .DS_Store",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjiniAbraham/manjis-svg-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjiniAbraham/manjis-svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/ManjiniAbraham/manjis-svg-logo-maker#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
