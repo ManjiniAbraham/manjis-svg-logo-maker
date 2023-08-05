@@ -1,7 +1,7 @@
 {
   "name": "manjis-svg-logo-maker",
   "version": "1.0.0",
-  "description": "node_modules/\r .DS_Store",
+  "description": "svg logo maker",
   "main": "index.js",
   "directories": {
     "example": "examples",
