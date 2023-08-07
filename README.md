@@ -1,6 +1,6 @@
 # SVG Logo Maker
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
 
 ## Description
 
@@ -11,9 +11,8 @@ The project is to build a Node.js command-line application that takes in user in
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 
@@ -32,13 +31,14 @@ Screenshots:
 
 ![Example for Triangle](/images/Triangle-logo-svg.png)
 
-Demo URL:
+Demo URL: https://drive.google.com/file/d/1XuQi2WYdVf_FNRMPl9_-ds1UgTvyQboK/view 
 
 ## License
 
-License: [The MIT License](https://opensource.org/licenses/MIT)
+License: [ISC License (ISC)](https://opensource.org/licenses/ISC)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)]
+
 
 ## Credits
 https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Positions
