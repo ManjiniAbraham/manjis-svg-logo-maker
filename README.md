@@ -13,7 +13,6 @@ The project is to build a Node.js command-line application that takes in user in
 - [License](#license)
 - [Credits](#credits)
 - [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
 
