@@ -11,7 +11,7 @@ The project is to build a Node.js command-line application that takes in user in
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
 
